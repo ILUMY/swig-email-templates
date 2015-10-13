@@ -24,6 +24,6 @@
     "jsdom-no-contextify": "~3.1.0",
     "optimist": "~0.6.1",
     "swig": "~1.4.2",
-    "juice2": "git://github.com/ILUMY/juice.git"
+    "juice2": "1.5.1"
   }
 }
