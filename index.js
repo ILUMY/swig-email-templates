@@ -1,7 +1,7 @@
 var swig = require("swig");
 var juiceDocument = require("juice").juiceDocument;
 var path = require("path");
-var jsdom = require("jsdom");
+var jsdom = require("jsdom-no-contextify");
 var fs = require('fs');
 var htmlToText = require("html-to-text");
 var rootFolder = path.join(__dirname, "templates");
