@@ -1,5 +1,5 @@
 var swig = require("swig");
-var juiceDocument = require("juice2").juiceDocument;
+var juiceDocument = require("juice").juiceDocument;
 var path = require("path");
 var jsdom = require("jsdom");
 var fs = require('fs');
